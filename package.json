@@ -1,0 +1,25 @@
+{
+  "dependencies": {
+    "cypress": "^12.5.1"
+  },
+  "name": "try-cypress-e2e",
+  "description": "Try Cypress E2E\r Contoh push commit",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx cypress run"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfarestaat/Try-Cypress-E2E.git"
+  },
+  "keywords": [
+    "test"
+  ],
+  "author": "Alfaresta",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfarestaat/Try-Cypress-E2E/issues"
+  },
+  "homepage": "https://github.com/alfarestaat/Try-Cypress-E2E#readme"
+}
